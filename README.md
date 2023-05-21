@@ -144,7 +144,7 @@ const Enzo = {
 </div>
 
 <div align="center">
-  <br><i>En realidad somos fracciones de un todo un infinito...</i><br><br>
+  <br><i>En realidad somos fracciones de un todo infinito...</i><br><br>
   <picture>
     <img src="https://i.pinimg.com/564x/74/3c/59/743c5969df3ae26390f5ffa1e02c9948.jpg" width=400px height=245px>
   </picture>
