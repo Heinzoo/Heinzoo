@@ -35,13 +35,16 @@ const Enzo = {
       </summary>
       <div><br>
         <picture>
-          <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=Windows&logoColor=white">
+          <img alt="HP" src="https://img.shields.io/badge/hp%20laptop-0096D6?style=for-the-badge&logo=hp&logoColor=white">
         </picture>
         <picture>
-          <img alt="VSCode" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white">
+          <img alt="VSCode" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=vscodium&logoColor=white">
         </picture><br>
         <picture>
           <img alt="Opera" src="https://img.shields.io/badge/Opera-FF1B2D.svg?style=for-the-badge&logo=Opera&logoColor=white">
+        </picture>
+        <picture>
+          <img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
         </picture>
         <picture>
           <img alt="VLC" src="https://img.shields.io/badge/VLC%20media%20player-FF8800.svg?style=for-the-badge&logo=VLC-media-player&logoColor=white">
@@ -67,6 +70,15 @@ const Enzo = {
       </summary>
       <div><br>
         <picture>
+          <img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
+        </picture>
+        <picture>
+          <img alt="Rails" src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white">
+        </picture>
+        <picture>
+          <img alt="Debian" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
+        </picture><br>
+        <picture>
           <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white">
         </picture>
         <picture>
@@ -89,18 +101,6 @@ const Enzo = {
         </picture>
         <picture>
           <img alt="Livewire" src="https://img.shields.io/badge/Livewire-4E56A6.svg?style=for-the-badge&logo=Livewire&logoColor=white">
-        </picture><br>
-        <picture>
-          <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white">
-        </picture>
-        <picture>
-          <img alt="C#" src="https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=C-Sharp&logoColor=white">
-        </picture>
-        <picture>
-          <img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white">
-        </picture>
-        <picture>
-          <img alt="Json" src="https://img.shields.io/badge/JSON-000000.svg?style=for-the-badge&logo=JSON&logoColor=white">
         </picture><br>
       </div>
     </details>
